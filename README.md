@@ -47,4 +47,8 @@ To run this project locally, follow these steps:
 # Screen Shots
 ![image](https://github.com/user-attachments/assets/3d77f377-9e6c-4a50-951e-5c666755a261)
 ![image](https://github.com/user-attachments/assets/a7f64f67-e6b4-412c-8d72-8e9b44a3bf95)
+![image](https://github.com/user-attachments/assets/e71f96a9-f871-4ed1-bea3-18943d68350d)
+![image](https://github.com/user-attachments/assets/0f632468-ecdf-4f67-b619-d143e30c2244)
+![image](https://github.com/user-attachments/assets/f07ea7c5-e1b2-461a-ae67-1aa2f719fba5)
+
 
